@@ -1,5 +1,5 @@
 import { v4 } from 'https://deno.land/std/uuid/mod.ts';
-import { Product } from '../types.ts';
+import { Product } from '../types';
 
 let products: Product[] = [
     {
